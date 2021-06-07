@@ -2,8 +2,6 @@
 """
 Created on Sun Dec  8 15:45:47 2019
 
-@author: Puneet Kochar
-"""
 
 import pandas as pd
 life=pd.read_csv('life expectancy.csv')
